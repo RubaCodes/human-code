@@ -8,7 +8,8 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
 
 lista regali = [lampada ,stilografica, libro]
 
-prendi lista e analizza oggetti;
+prendi lista e analizza oggetti; 
+{for all items inspect properties}
 
 
 if prime? no ==>escludi lampada;
