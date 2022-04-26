@@ -13,8 +13,11 @@ prendi lista e  oggetti;
 
 if prime? no ==>escludi lampada;
     
-    else {if over_budget? si escludi stilografica
-    se no acquista libro;
+    else {
+        if {
+            over_budget? si ==> escludi stilografica
+                 se no acquista libro;
+        }
     }
 
  
